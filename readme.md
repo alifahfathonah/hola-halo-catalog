@@ -12,6 +12,9 @@
   8. ketikan di command promp/terminal <b>php artisan serve</b>
   9. selesai, aplikasi berhasil dijalankan.
   
+  ## Import MySQL
+  Jika ingin sudah ada data dummy silahkan bisa import file .sqlnya di phpmyadmin  
+  
   ## Login Admin 
   Data admin sudah dibuat di seeder
   - email       : admin@gmail.com
