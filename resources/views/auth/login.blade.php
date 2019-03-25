@@ -84,7 +84,7 @@
 			   <button type="submit" class="btn btn-danger shadow-danger btn-block waves-effect waves-light">Sign In</button>
 			 </div>
 			  <div class="form-group text-center">
-			   <p class="text-muted">Not have account ? <a href="{{ route('register') }}"> Sign Up here</a></p>
+			   {{-- <p class="text-muted">Not have account ? <a href="{{ route('register') }}"> Sign Up here</a></p> --}}
 			 </div>
 			 {{-- <div class="form-group text-center">
 			    <hr>

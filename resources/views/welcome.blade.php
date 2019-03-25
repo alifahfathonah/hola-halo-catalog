@@ -6,6 +6,7 @@
     <div class="form-group row">
         <div class="col-sm-10">
                 <select name="category" class="form-control single-select" id="basic-select">
+                  <option value="">Pilih Kategori</option>
                         @foreach($categories as $category)
                             <option value="{{ $category->id }}">{{ ucwords($category->name) }}</option>
                         @endforeach
