@@ -13,7 +13,7 @@
   9. selesai, aplikasi berhasil dijalankan.
   
   ## Import MySQL
-  Jika ingin sudah ada data dummy silahkan bisa import file .sqlnya di phpmyadmin  
+  Jika dbnya ingin sudah ada data dummy silahkan bisa juga di import file .sqlnya ke phpmyadmin  
   
   ## Login Admin 
   Data admin sudah dibuat di seeder
