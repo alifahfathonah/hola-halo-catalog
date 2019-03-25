@@ -18,6 +18,11 @@
   - password    : password
   
   ## Beberapa Preview Aplikasi
-  
+![e](https://user-images.githubusercontent.com/13019337/54938967-03bed600-4f5a-11e9-8529-033dac3c0579.jpg)
+![a](https://user-images.githubusercontent.com/13019337/54938969-04576c80-4f5a-11e9-9e07-c2f869b80958.jpg)
+![b](https://user-images.githubusercontent.com/13019337/54938970-04f00300-4f5a-11e9-84b5-c4d52a5218ce.jpg)
+![c](https://user-images.githubusercontent.com/13019337/54938972-04f00300-4f5a-11e9-80ea-c3804fbed718.jpg)
+![d](https://user-images.githubusercontent.com/13019337/54938974-04f00300-4f5a-11e9-973c-57b9c90bc712.jpg)
+
   
  
